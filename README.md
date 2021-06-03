@@ -1,6 +1,6 @@
 # ArWave Converter 🔊
 
-Convert MIDI files into [ArWave](https://bitbucket.org/torunar/arwave) melody files.
+Convert MIDI files into [ArWave](https://github.com/torunar/arwave) melody files.
 
 # Requirements
 
@@ -14,7 +14,7 @@ Convert MIDI files into [ArWave](https://bitbucket.org/torunar/arwave) melody fi
 
 1. Put your melody in the `input.mid` file inside the project folder.
 2. Run the program: `python3 __main__.py`.
-3. Save the program output into the `src/melody.h` melody file of your [ArWave](https://bitbucket.org/torunar/arwave) project.
+3. Save the program output into the `src/melody.h` melody file of your [ArWave](https://github.com/torunar/arwave) project.
 
 # Tips on creating a good melody
 
